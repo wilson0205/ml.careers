@@ -11,7 +11,7 @@ collections:
 email: wilson0205@gmail.com
 author: Wilson Tjandra
 description: Machine Learning Careers.
-baseurl: ''
+baseurl: 
 url: http://ml.careers
 date_format: "%b %-d, %Y"
 google_verification: 
